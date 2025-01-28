@@ -1,0 +1,1 @@
+rnorm(1000,sd = 0.5) |> exp() |> hist() # Example of a pipe
