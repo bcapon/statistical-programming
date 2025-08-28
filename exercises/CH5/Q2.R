@@ -1,1 +1,0 @@
-julian(as.Date("2024-09-24"),origin=as.Date("2024-01-01")) # Year-Month-Day as numbers is default for Date class

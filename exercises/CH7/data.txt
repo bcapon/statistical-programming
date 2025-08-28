@@ -1,3 +1,0 @@
-"name" "age" "height"
-"sue" 21 1.6
-"fred" 19 1.7
