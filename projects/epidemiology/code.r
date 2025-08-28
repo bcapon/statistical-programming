@@ -1,16 +1,6 @@
-setwd("D:/University of Edinburgh Masters/Sem 1/statistical-programming/projects/project2")
-
 ## Benjamin Capon - github.com/bcapon
 ## Tom Davies - github.com/tomdvies
 ## Cyrus Seyrafi - github.com/hanman453
-
-## The code was completed collaboratively mainly during workshops with all 3 team
-## members consistently present and contributing ideas, pushing to Github on Tom's
-## laptop (to avoid git conflicts). All team members pulled their weight by making
-## further contributions to the code in their own time at home when necessary. Coding,
-## commenting/editing, and breaking down the problems were done in different ratios
-## within the group but the time committed to the project and overall proportion of
-## contributions are seen as equal amongst group members.
 
 ## This script uses NHS data on death counts during the 2020 COVID-19 pandemic
 ## to predict when individuals in England first contracted the disease. We consider
